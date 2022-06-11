@@ -1,0 +1,10 @@
+C:\Users\hayda\OneDrive\Masaüstü\PAC-MAN V2\bin\Debug\PAC-MAN V2.exe.config
+C:\Users\hayda\OneDrive\Masaüstü\PAC-MAN V2\bin\Debug\PAC-MAN V2.exe
+C:\Users\hayda\OneDrive\Masaüstü\PAC-MAN V2\bin\Debug\PAC-MAN V2.pdb
+C:\Users\hayda\OneDrive\Masaüstü\PAC-MAN V2\obj\Debug\PAC-MAN V2.csproj.AssemblyReference.cache
+C:\Users\hayda\OneDrive\Masaüstü\PAC-MAN V2\obj\Debug\PAC_MAN_V2.Form1.resources
+C:\Users\hayda\OneDrive\Masaüstü\PAC-MAN V2\obj\Debug\PAC_MAN_V2.Properties.Resources.resources
+C:\Users\hayda\OneDrive\Masaüstü\PAC-MAN V2\obj\Debug\PAC-MAN V2.csproj.GenerateResource.cache
+C:\Users\hayda\OneDrive\Masaüstü\PAC-MAN V2\obj\Debug\PAC-MAN V2.csproj.CoreCompileInputs.cache
+C:\Users\hayda\OneDrive\Masaüstü\PAC-MAN V2\obj\Debug\PAC-MAN V2.exe
+C:\Users\hayda\OneDrive\Masaüstü\PAC-MAN V2\obj\Debug\PAC-MAN V2.pdb
